@@ -240,7 +240,7 @@ main div:first-child {
 
   .text-block {
     max-height: 250px;
-    overflow: visible;
+    overflow: auto;
   }
 
 
